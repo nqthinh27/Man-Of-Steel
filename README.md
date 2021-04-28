@@ -17,7 +17,7 @@ Code được tham khảo từ code của game Flappy Bird trên phattrienphanme
   - Thêm âm thanh nhạc nền cho game và hiệu ứng âm thanh khi nhân vật di chuyển.
   - Thiết kế lại giao diện cho đẹp mắt hơn.
 ## Video demo game
-https://drive.google.com/file/d/1kKI2sVNL-tbqM0cxbH1f4SH6ZkCHw2vm/view?usp=sharing
+https://drive.google.com/file/d/1TWnnuMxEGPq3M_NZT49SFNzou8Z5E14y/view?usp=sharing
 ## Hướng dẫn tải và cài đặt
   - Chương trình sử dụng file project của Code Blocks, SDL2 và biên dịch bằng C/C++ MinGW (gcc).
   - Download Codeblock tại đây https://www.codeblocks.org/downloads/
